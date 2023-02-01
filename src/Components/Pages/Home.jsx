@@ -4,7 +4,7 @@ import LandingPage from "./LandingPage";
 
 function Home() {
   return (
-    <div className="h-screen pt-14 bg-black">
+    <div className="h-screen pt-14 bg-green-500">
       <LandingPage />
       <About />
     </div>
